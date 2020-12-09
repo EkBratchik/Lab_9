@@ -1,0 +1,5 @@
+1,Macau,Venetian,01.01.2001,game1,5
+2,Monako,Monte Carlo,02.02.2002,game2,5
+3,Las Vegas,Wynn,03.03.2003,game1,4
+4,Las Vegas,Venetian,04.04.2004,game2,3
+5,Macau,City of Dreams,05.05.2005,game3,4
